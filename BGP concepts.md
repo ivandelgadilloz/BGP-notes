@@ -66,7 +66,7 @@ print("BGP")
 
 Mas informacion puedes encontrar en mi bio [ivandelgadilloz](https://linktr.ee/idelgadillo)
 
-![topology](https://github.com/ivandelgadilloz/BGP-notes/tree/main/assets/images/Topologia BGP full.png)
+![topology](https://github.com/ivandelgadilloz/BGP-notes/tree/main/assets/images/Topologia-BGP-full.png)
 
 
 
