@@ -12,7 +12,7 @@ address family configuration. The *next-hop-self* feature does not modify the ne
 address for iBGP prefixes by default. IOS nodes can append the optional all keyword, which 
 modifies the next-hop address on iBGP prefixes, too
 
-![Topology](https://github.com/ivandelgadilloz/BGP-notes/tree/main/assets/images/BGP_Next-hop-self.png?raw=true)
+![Topology](https://github.com/ivandelgadilloz/BGP-notes/blob/main/assets/images/BGP_Next-hop-self.png?raw=true)
 
 ## CLI
 # R1
