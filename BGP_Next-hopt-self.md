@@ -160,3 +160,4 @@ B     192.168.2.0/24 [20/0] via 10.34.1.3, 01:58:23
 B     192.168.3.0/24 [20/0] via 10.34.1.3, 01:58:23
 ```
 
+bio [ivandelgadilloz](https://linktr.ee/idelgadillo)
