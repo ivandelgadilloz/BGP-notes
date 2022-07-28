@@ -10,8 +10,8 @@ IP address sourcing the BGP session.
 The command neighbor ip-address *next-hop-self* [all] is used for each neighbor under the 
 address family configuration. The *next-hop-self* feature does not modify the next-hop 
 address for iBGP prefixes by default. IOS nodes can append the optional all keyword, which 
-modifies the next-hop address on iBGP prefixes, too
-
+modifies the next-hop address on iBGP prefixes, too.
+## Topology
 ![Topology](https://github.com/ivandelgadilloz/BGP-notes/blob/main/assets/images/BGP_Next-hop-self.png?raw=true)
 
 ## CLI
