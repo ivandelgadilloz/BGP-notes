@@ -64,12 +64,12 @@
 print("BGP")
 ```
 
-Mas informacion puedes encontrar en mi bio [ivandelgadilloz](https://linktr.ee/idelgadillo)
 
-![Topologia](https://github.com/ivandelgadilloz/BGP-notes/tree/main/assets/images/Topologia-BGP-full.png?raw=true)
+# Full Topology
 
+![Topology](https://github.com/ivandelgadilloz/BGP-notes/blob/main/assets/images/Topologia-BGP-full.png?raw=true)
 
-
+bio [ivandelgadilloz](https://linktr.ee/idelgadillo)
 
 
 
